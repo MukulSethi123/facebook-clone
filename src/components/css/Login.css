@@ -1,0 +1,23 @@
+.login{
+
+    padding-top: 2rem;
+    display:grid;
+    
+    place-items: center;
+    height: 100vh;
+    
+}
+.login__logo > img{
+    width: 25rem;
+    height: 25rem;
+}
+
+.login > h1{
+    color:#4A7AFF;
+    justify-self: center;
+}
+
+.login >button{
+    background-color:#4A7AFF ;
+    color:white;
+}
